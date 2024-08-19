@@ -1,0 +1,65 @@
+unit MonolitoFinanceiro.View.CadastroPadrao;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.WinXPanels, Data.DB,
+  System.ImageList, Vcl.ImgList, Vcl.StdCtrls, Vcl.Mask, Vcl.Grids, Vcl.DBGrids;
+
+type
+  TForm2 = class(TForm)
+    pnlPrincipal: TCardPanel;
+    CardCadastro: TCard;
+    CardPesquisa: TCard;
+    pnlPesquisaBotoes: TPanel;
+    pnlGrid: TPanel;
+    pnlPesquisa: TPanel;
+    dbgrdGrid: TDBGrid;
+    lbledtPesquisar: TLabeledEdit;
+    btnPesquisar: TButton;
+    il1: TImageList;
+    btnFechar: TButton;
+    btnIncluir: TButton;
+    btnAlterar: TButton;
+    btnExcluir: TButton;
+    btnImprimir: TButton;
+    Panel1: TPanel;
+    btnCancelar: TButton;
+    btnSalvar: TButton;
+    procedure CardPesquisaClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form2: TForm2;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm2.CardPesquisaClick(Sender: TObject);
+begin
+object pnlGrid: TPanel
+  Left = 0
+  Top = 0
+  Width = 185
+  Height = 41
+  Caption = 'pnlPesquisa'
+  TabOrder = 0
+  object pnlPesquisaBotoes: TPanel
+    Left = 0
+    Top = 0
+    Width = 185
+    Height = 41
+    Caption = 'pnlPesquisa'
+    TabOrder = 0
+  end
+end
+
+end;
+
+end.
