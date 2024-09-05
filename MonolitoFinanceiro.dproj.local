@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/16 14:19:10.000.421,=C:\Users\Dev1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/16 14:22:10.000.321,C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\src\view\MonolitoFinanceiro.View.Principal.pas=C:\Users\Dev1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/16 14:22:10.000.321,C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\src\view\MonolitoFinanceiro.View.Principal.dfm=C:\Users\Dev1\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/16 14:22:39.000.606,C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\MonolitoFinanceiro.dproj=C:\Users\Dev1\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/16 14:46:40.000.481,=C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\Unit2.pas</Transaction>
+    <Transaction>2024/08/16 14:47:39.000.294,C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\src\view\MonolitoFinanceiro.View.CadastroPadrao.dfm=C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\Unit2.dfm</Transaction>
+    <Transaction>2024/08/16 14:47:39.000.294,C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\src\view\MonolitoFinanceiro.View.CadastroPadrao.pas=C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\Unit2.pas</Transaction>
+    <Transaction>2024/08/19 16:15:28.000.326,=C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\Unit2.pas</Transaction>
+    <Transaction>2024/08/19 16:22:49.000.061,C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\Unit2.pas=C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\src\view\MonolitoFinanceiro.View.Spash.pas</Transaction>
+    <Transaction>2024/08/19 16:22:49.000.061,C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\Unit2.dfm=C:\Users\Dev1\Documents\Embarcadero\Studio\projects\MonolitoFinanceiro\src\view\MonolitoFinanceiro.View.Spash.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
